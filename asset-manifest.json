@@ -1,28 +1,13 @@
 {
   "files": {
-    "main.css": "/development/static/css/main.796f7790.css",
-    "main.js": "/development/static/js/main.1e35078f.js",
-    "static/media/strawberry-galette.png": "/development/static/media/strawberry-galette.f6cf4c25478b80fe2da2.png",
-    "static/media/croissant.png": "/development/static/media/croissant.46b5a6e92611e3587359.png",
-    "static/media/jerusalem-bagel.png": "/development/static/media/jerusalem-bagel.6aa92f92e331eb013988.png",
-    "static/media/baguette.png": "/development/static/media/baguette.3eeec242307107ca0105.png",
-    "static/media/halva-nougat.png": "/development/static/media/halva-nougat.b5a4f839da465e73f16f.png",
-    "static/media/jam-filled-heart-cookies.png": "/development/static/media/jam-filled-heart-cookies.52dee93348c653cc0b4d.png",
-    "static/media/blackberry-meringue-clouds.png": "/development/static/media/blackberry-meringue-clouds.4a414d438a8c05c5ad9f.png",
-    "static/media/donut-of-the-day.png": "/development/static/media/donut-of-the-day.f41ba79a1eb798bdf116.png",
-    "static/media/sourdough-loaf.png": "/development/static/media/sourdough-loaf.930954f8964a1468bd0b.png",
-    "static/media/pistachio-cherry-tart.png": "/development/static/media/pistachio-cherry-tart.35a4cf7d225bc23519d3.png",
-    "static/media/morning-bun.png": "/development/static/media/morning-bun.e61e24ad5c9cceddf4e6.png",
-    "static/media/apple-pie.png": "/development/static/media/apple-pie.3e5967f53f411f81953f.png",
-    "static/media/flourless-brownie.png": "/development/static/media/flourless-brownie.cc8cdef7328db510da61.png",
-    "static/media/lemon-meringue-tart.png": "/development/static/media/lemon-meringue-tart.adc9fb927abe30ae5aad.png",
-    "static/media/blueberry-cheesecake.png": "/development/static/media/blueberry-cheesecake.6e2419e0ec2173949095.png",
-    "index.html": "/development/index.html",
-    "main.796f7790.css.map": "/development/static/css/main.796f7790.css.map",
-    "main.1e35078f.js.map": "/development/static/js/main.1e35078f.js.map"
+    "main.css": "./static/css/main.796f7790.css",
+    "main.js": "./static/js/main.825628b2.js",
+    "index.html": "./index.html",
+    "main.796f7790.css.map": "./static/css/main.796f7790.css.map",
+    "main.825628b2.js.map": "./static/js/main.825628b2.js.map"
   },
   "entrypoints": [
     "static/css/main.796f7790.css",
-    "static/js/main.1e35078f.js"
+    "static/js/main.825628b2.js"
   ]
 }
